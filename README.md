@@ -3,4 +3,4 @@ This code will help you scrape review date, review title, review text, rating, d
 
 Do run the code on Google Chrome Browser. To run the code, kindly download a Chrome extension from the link(https://chromedriver.chromium.org/downloads) as per the version of your Chrome. Download the extension and extract it to the destination of the coding file.
 
-Kindly find attached the output file of this code.
+Find attached the output file of this code.
